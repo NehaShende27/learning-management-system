@@ -9,3 +9,10 @@ in this project, following functionalities are implemented-
 5. validate following API requirements as well- http response should contain only specific information, url should be checked, only specific methods should be allowed
 6. submit assignments with respect to number of attempts per user, apply validations to number of attempts, date of submission, and delete an assigment only if it doesn't have any submissions posted for it
 7. perform integration tests using mocha and chai frameworks
+
+
+# Instructions
+
+1. add .env file
+2. run npm install
+3. run node start
